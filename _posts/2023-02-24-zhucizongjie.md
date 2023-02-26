@@ -5,10 +5,8 @@ date: 2023-02-24 14:00:00 +0800
 categories: [日本語が下手です, 新标日初级上册]
 tags: [japanese]
 image:
-  lqip: /assets/img/42afc879ac9735504507e0de39814c2e.jpg
+  path: /assets/img/42afc879ac9735504507e0de39814c2e.jpg
 ---
-
-
 
 ### は
 1. 提示主题
