@@ -1,11 +1,11 @@
 ---
-title: 量词总结
+title: 动词汇总
 author: 
 date: 2023-04-05 15:00:00 +0800
 categories: [日本語が下手です, 新标日初级上册]
 tags: [japanese]
 image:
-  path: /assets/img/24c5550c20b80e29c9d9ba8a12be3d9c.jpg
+  path: /assets/img/9505440f6391e6205b18d4cb3a400f28.jpg
 ---
 
 | **动词**          | **原型** | **释义**    | **类型** |
