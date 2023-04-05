@@ -1,7 +1,7 @@
 ---
 title: 量词总结
 author: 
-date: 2023-02-24 14:00:00 +0800
+date: 2023-03-10 14:00:00 +0800
 categories: [日本語が下手です, 新标日初级上册]
 tags: [japanese]
 image:
